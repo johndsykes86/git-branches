@@ -2,3 +2,9 @@ ul {
   color: dodgerblue;
   font-size: 48px;
 }
+
+footer {
+  background-color: black;
+  padding: 200px;
+  color: dodgerblue;
+}
