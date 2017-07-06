@@ -8,3 +8,8 @@ footer {
   padding: 200px;
   color: dodgerblue;
 }
+
+sidebar{
+  float: right;
+  padding: 20px;
+}
